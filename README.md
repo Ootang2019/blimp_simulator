@@ -2,6 +2,11 @@
 Blimp Robot Description File 
 =================================================================
 
+This repository is no longer supported. Check the new codebase
+https://github.com/robot-perception-group/airship_simulation
+
+=================================================================
+
 # Copyright and License
 
 All Code in this repository - unless otherwise stated in local license or code headers is
